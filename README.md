@@ -1,5 +1,13 @@
-Real-Time Hand Gesture Detection
-================================
+Hand Movement Detection
+============================================
+By: Parimal Mehta @prmehta24 , Parth Panchal @Parth19499
+
+The code can identify hand movements in a live videofeed(from a webcam). We have tried to identify the direction in which the hand is moving in all three axes - x, y and z (Up, Down, Left, Right, Closer, Farther).
+
+We have based our program on @sashagaz's excellent Hand Detection program.
+
+### Real-Time Hand Gesture Detection
+
 The code captures frames using a web camera (tested on mac's camera) and outputs a video with a number designates the number of pointed finger. For example, a fist corresponds to 0 and an open hand to 5.
 
 This project is written in Python 2.7. The following libraries are used in this project and neccessary to be add to your computer:
