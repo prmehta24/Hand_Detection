@@ -34,6 +34,8 @@ The direction of hand movement will be written on the sides of the frame in whit
 
 * It also needed a clear background to be able to detect a hand in the frame.
 
+Hope you find this project helpful.
+
 
 ## References
 
