@@ -37,12 +37,11 @@ The direction of hand movement will be written on the sides of the frame in whit
 
 ## References
 
-opencv documentation http://docs.opencv.org/
-[2] Skin Detection using HSV color space - V. A. Oliveira, A. Conci
-[3] OpenCv Documentation - Miscellaneous Image Transformation
-http://docs.opencv.org/modules/imgproc/doc/miscellaneous_transformations.html
-[4] OpenCv Documentation - Morphological Operations http://docs.opencv.org/trunk/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html
-[5] Suzuki, S. and Abe, K., Topological Structural Analysis of Digitized Binary Images by Border Following. CVGIP 30 1, pp 32-46 (1985)
+1. opencv documentation http://docs.opencv.org/
+2. Skin Detection using HSV color space - V. A. Oliveira, A. Conci
+3.  OpenCv Documentation - Miscellaneous Image Transformation http://docs.opencv.org/modules/imgproc/doc/miscellaneous_transformations.html
+4. OpenCv Documentation - Morphological Operations http://docs.opencv.org/trunk/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html
+5.  Suzuki, S. and Abe, K., Topological Structural Analysis of Digitized Binary Images by Border Following. CVGIP 30 1, pp 32-46 (1985)
 
 
  
