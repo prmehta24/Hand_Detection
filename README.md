@@ -35,7 +35,8 @@ The direction of hand movement will be written on the sides of the frame in whit
 * It also needed a clear background to be able to detect a hand in the frame.
 
 
-References:
+## References
+
 opencv documentation http://docs.opencv.org/
 [2] Skin Detection using HSV color space - V. A. Oliveira, A. Conci
 [3] OpenCv Documentation - Miscellaneous Image Transformation
