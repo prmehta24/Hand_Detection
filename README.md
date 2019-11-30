@@ -30,9 +30,11 @@ The direction of hand movement will be written on the sides of the frame in whit
 
 * The code can only detect one hand at a time. It would also be unable to recognise a partially occluded hand.
 
-* The to use the hand color method to detect a hand from camera frames. A shortcoming of this method was that it would classify anything of skin color as a hand (including other body parts - head, elbow ). 
+* This uses the hand color method to detect a hand from camera frames. A shortcoming of this method was that it would classify anything of skin color as a hand (including other body parts - head, elbow ). 
 
 * It also needed a clear background to be able to detect a hand in the frame.
+
+* HandGestureDetection.jpg is a flowchart for @sashagaz's Hand Detection program.
 
 Hope you find this project helpful.
 
